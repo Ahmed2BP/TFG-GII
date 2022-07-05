@@ -1,0 +1,10 @@
+autopep8
+eppy
+gym
+idna
+isort[requirements_deprecated_finder,pipfile_deprecated_finder]
+numpy
+opyplus
+pandas
+pytype
+twine

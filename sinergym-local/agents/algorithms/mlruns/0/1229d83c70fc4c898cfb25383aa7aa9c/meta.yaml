@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/sinergym/agents/algorithms/mlruns/0/1229d83c70fc4c898cfb25383aa7aa9c/artifacts
+end_time: 1652732883341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1229d83c70fc4c898cfb25383aa7aa9c
+run_uuid: 1229d83c70fc4c898cfb25383aa7aa9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652732648447
+status: 4
+tags: []
+user_id: root

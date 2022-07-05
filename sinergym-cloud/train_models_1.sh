@@ -1,0 +1,16 @@
+python cloud_manager.py \
+    --project_id sinergym \
+    --zone europe-west1-b \
+    --template_name sinergym-template \
+    --bucket_name ahmed-experiments \
+    --group_name ahmed-train \
+    --experiment_commands \
+### Action space discrete reduced ###
+    # DQN
+    'python DRL_battery.py --environment Eplus-5Zone-hot-discrete-stochastic-v1 --episodes 20 --algorithm DQN --learning_rate 0.0001 --buffer_size 1000000 --learning_starts 50000 --batch_size 32 --tau 1.0 --gamma 0.99 --gradient_steps 1 --max_grad_norm 10 --logger --log_interval 1 --seed 1 --evaluation --eval_freq 4 --eval_length 3 --reward linear --tensorboard gs://ahmed-experiments/tensorboard_log --remote_store --mlflow_store --normalization --auto_delete --id DQN_Disc_Red_Hot_LinRew' \
+    'python DRL_battery.py --environment Eplus-5Zone-mixed-discrete-stochastic-v1 --episodes 20 --algorithm DQN --learning_rate 0.0001 --buffer_size 1000000 --learning_starts 50000 --batch_size 32 --tau 1.0 --gamma 0.99 --gradient_steps 1 --max_grad_norm 10 --logger --log_interval 1 --seed 1 --evaluation --eval_freq 4 --eval_length 3 --reward linear --tensorboard gs://ahmed-experiments/tensorboard_log --remote_store --mlflow_store --normalization --auto_delete --id DQN_Disc_Red_Mixed_LinRew' \
+    'python DRL_battery.py --environment Eplus-5Zone-cool-discrete-stochastic-v1 --episodes 20 --algorithm DQN --learning_rate 0.0001 --buffer_size 1000000 --learning_starts 50000 --batch_size 32 --tau 1.0 --gamma 0.99 --gradient_steps 1 --max_grad_norm 10 --logger --log_interval 1 --seed 1 --evaluation --eval_freq 4 --eval_length 3 --reward linear --tensorboard gs://ahmed-experiments/tensorboard_log --remote_store --mlflow_store --normalization --auto_delete --id DQN_Disc_Red_Cool_LinRew' \
+    # A2C
+    'python DRL_battery.py --environment Eplus-5Zone-hot-discrete-stochastic-v1 --episodes 20 --algorithm A2C --learning_rate 0.0007 --n_steps 5 --gamma 0.99 --gae_lambda 1.0 --ent_coef 0 --vf_coef 0.5 --max_grad_norm 0.5 --rms_prop_eps 1e-05  --logger --log_interval 300 --seed 1 --evaluation --eval_freq 4 --eval_length 3 --reward linear --tensorboard gs://ahmed-experiments/tensorboard_log --remote_store --mlflow_store --normalization --auto_delete --id A2C_Disc_Red_Hot_LinRew' \
+    'python DRL_battery.py --environment Eplus-5Zone-mixed-discrete-stochastic-v1 --episodes 20 --algorithm A2C --learning_rate 0.0007 --n_steps 5 --gamma 0.99 --gae_lambda 1.0 --ent_coef 0 --vf_coef 0.5 --max_grad_norm 0.5 --rms_prop_eps 1e-05  --logger --log_interval 300 --seed 1 --evaluation --eval_freq 4 --eval_length 3 --reward linear --tensorboard gs://ahmed-experiments/tensorboard_log --remote_store --mlflow_store --normalization --auto_delete --id A2C_Disc_Red_Mixed_LinRew' \
+    'python DRL_battery.py --environment Eplus-5Zone-cool-discrete-stochastic-v1 --episodes 20 --algorithm A2C --learning_rate 0.0007 --n_steps 5 --gamma 0.99 --gae_lambda 1.0 --ent_coef 0 --vf_coef 0.5 --max_grad_norm 0.5 --rms_prop_eps 1e-05  --logger --log_interval 300 --seed 1 --evaluation --eval_freq 4 --eval_length 3 --reward linear --tensorboard gs://ahmed-experiments/tensorboard_log --remote_store --mlflow_store --normalization --auto_delete --id A2C_Disc_Red_Cool_LinRew'
