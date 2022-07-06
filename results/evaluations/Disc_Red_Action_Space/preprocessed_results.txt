@@ -1,0 +1,43 @@
+
+
+
+A2C_Disc_Red_Cool_LinRew
+
+mean_comfort_violation = 65.50685		typical dev = 0.2119540563600158
+mean_power_consumption = 5994.26721		typical dev = 10.217023725310812
+mean_reward = -0.47572					typical dev = 0.0007849230850679856
+
+
+A2C_Disc_Red_Hot_LinRew
+
+mean_comfort_violation = 63.68836		typical dev = 0.21003945791909476
+mean_power_consumption = 5380.99221		typical dev = 32.25856118633292
+mean_reward = -0.40231					typical dev = 0.0014648316178059808
+
+
+A2C_Disc_Red_Mixed_LinRew
+
+mean_comfort_violation = 65.45776		typical dev = 0.10232030064062066
+mean_power_consumption = 3284.3374		typical dev = 16.052846778143397
+mean_reward = -0.26971					typical dev = 0.0012492949580433109
+
+
+DQN_Disc_Red_Cool_LinRew
+
+mean_comfort_violation = 67.46347		typical dev = 0.12882863908371017
+mean_power_consumption = 5842.94688		typical dev = 21.50800961188285
+mean_reward = -0.48861					typical dev = 0.001518450403798506
+
+
+DQN_Disc_Red_Hot_LinRew
+
+mean_comfort_violation = 61.93493		typical dev = 0.13297984354724487
+mean_power_consumption = 5236.3082		typical dev = 37.149302971041834
+mean_reward = -0.41185					typical dev = 0.0016787064667984494
+
+
+DQN_Disc_Red_Mixed_LinRew
+
+mean_comfort_violation = 65.23174		typical dev = 0.48936000840159866
+mean_power_consumption = 3052.06096		typical dev = 15.078650450568249
+mean_reward = -0.29051					typical dev = 0.0016726481585036747

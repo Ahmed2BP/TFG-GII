@@ -1,0 +1,66 @@
+
+
+
+RBC_hot_LinRew
+
+mean_comfort_violation = 30.38128		typical dev = 0.12100725852092557
+mean_power_consumption = 5887.68188		typical dev = 10.567757064766097
+mean_reward = -0.41508					typical dev = 0.0012265257781930764
+
+
+RBC_hot_OccupPropRew
+
+mean_comfort_violation = 2.53425		typical dev = 0.033815783661183985
+mean_power_consumption = 5908.68975		typical dev = 15.01287892037067
+mean_reward = -0.48758					typical dev = 0.001270197081070391
+
+
+RBC_hot_OccupRew
+
+mean_comfort_violation = 2.55936		typical dev = 0.03669873836912907
+mean_power_consumption = 5894.62288		typical dev = 11.721536161774177
+mean_reward = -0.46277					typical dev = 0.0011671225582950873
+
+
+RBC_mixed_LinRew
+
+mean_comfort_violation = 27.83847		typical dev = 0.32837547226144564
+mean_power_consumption = 5645.42154		typical dev = 22.21936085830104
+mean_reward = -0.28394					typical dev = 0.0010742108640613487
+
+
+RBC_mixed_OccupPropRew
+
+mean_comfort_violation = 8.61758		typical dev = 0.06199166202002484
+mean_power_consumption = 5627.07957		typical dev = 31.06923050026169
+mean_reward = -0.49237					typical dev = 0.002448810421610056
+
+
+RBC_mixed_OccupRew
+
+mean_comfort_violation = 8.51084		typical dev = 0.13430111804744096
+mean_power_consumption = 5661.903		typical dev = 28.367782849691395
+mean_reward = -0.4735					typical dev = 0.0024787639359788766
+
+
+RBC_cool_LinRew
+
+mean_comfort_violation = 26.31792		typical dev = 0.29768813591941423
+mean_power_consumption = 3301.24998		typical dev = 14.615917697070689
+mean_reward = -0.19729					typical dev = 0.0016177495653324193
+
+
+RBC_cool_OccupPropRew
+
+mean_comfort_violation = 10.23002		typical dev = 0.07513028792348748
+mean_power_consumption = 3306.72003		typical dev = 31.687991795805743
+mean_reward = -0.32209					typical dev = 0.0024962554118322326
+
+
+RBC_cool_OccupRew
+
+mean_comfort_violation = 10.17466		typical dev = 0.2286983007879658
+mean_power_consumption = 3318.7484		typical dev = 16.488069411675358
+mean_reward = -0.31734					typical dev = 0.0020464473226805297
+
+

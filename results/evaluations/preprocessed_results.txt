@@ -1,0 +1,422 @@
+
+
+
+A2C_Disc_Aug_Cool_LinRew
+
+mean_comfort_violation = 20.33276		typical dev = 0.17083858714023128
+mean_power_consumption = 3512.43627		typical dev = 17.123614237798158
+mean_reward = -0.20339					typical dev = 0.0009571372863879957
+
+
+A2C_Disc_Aug_Cool_OccupPropRew
+
+mean_comfort_violation = 17.26598		typical dev = 0.19396317556570433
+mean_power_consumption = 2014.32388		typical dev = 9.872536237532882
+mean_reward = -0.23987					typical dev = 0.0013899088479443862
+
+
+A2C_Disc_Aug_Cool_OccupRew
+
+mean_comfort_violation = 17.3887		typical dev = 0.10636978705718331
+mean_power_consumption = 1943.99592		typical dev = 8.78681848728494
+mean_reward = -0.2114					typical dev = 0.0014478346327848294
+
+
+A2C_Disc_Aug_Hot_LinRew
+
+mean_comfort_violation = 41.1992		typical dev = 0.13135792715706746
+mean_power_consumption = 5821.39847		typical dev = 9.503173860674442
+mean_reward = -0.57831					typical dev = 0.0017079002976821897
+
+
+A2C_Disc_Aug_Hot_OccupPropRew
+
+mean_comfort_violation = 18.78995		typical dev = 0.09914105891701343
+mean_power_consumption = 4473.26837		typical dev = 8.542825785649066
+mean_reward = -0.40859					typical dev = 0.0005752057656078178
+
+
+A2C_Disc_Aug_Hot_OccupRew
+
+mean_comfort_violation = 18.80879		typical dev = 0.1011353678391907
+mean_power_consumption = 4443.10612		typical dev = 8.757249519633005
+mean_reward = -0.41431					typical dev = 0.0006147723407487796
+
+
+A2C_Disc_Aug_Mixed_LinRew
+
+mean_comfort_violation = 37.92751		typical dev = 0.20090513422827233
+mean_power_consumption = 5345.75546		typical dev = 31.83178818948843
+mean_reward = -0.41996					typical dev = 0.0011256563326378947
+
+
+A2C_Disc_Aug_Mixed_OccupPropRew
+
+mean_comfort_violation = 17.15811		typical dev = 0.07853931055380033
+mean_power_consumption = 3565.33571		typical dev = 20.085899802213326
+mean_reward = -0.34597					typical dev = 0.0017583026414751547
+
+
+A2C_Disc_Aug_Mixed_OccupRew
+
+mean_comfort_violation = 17.1347		typical dev = 0.07984749778134093
+mean_power_consumption = 3575.17616		typical dev = 20.15419276415678
+mean_reward = -0.37589					typical dev = 0.0015746460272781932
+
+
+DQN_Disc_Aug_Cool_LinRew
+
+mean_comfort_violation = 20.50742		typical dev = 0.3114127214351763
+mean_power_consumption = 3262.32293		typical dev = 17.507674159392774
+mean_reward = -0.19388					typical dev = 0.0011621557510066494
+
+
+DQN_Disc_Aug_Cool_OccupPropRew
+
+mean_comfort_violation = 13.32991		typical dev = 0.07220714429620272
+mean_power_consumption = 2114.45531		typical dev = 15.039678554639853
+mean_reward = -0.20329					typical dev = 0.0016162824017412754
+
+
+DQN_Disc_Aug_Cool_OccupRew
+
+mean_comfort_violation = 8.30194		typical dev = 0.04926562928547934
+mean_power_consumption = 2226.47825		typical dev = 13.650375686259412
+mean_reward = -0.20785					typical dev = 0.0014511925432842178
+
+
+DQN_Disc_Aug_Hot_LinRew
+
+mean_comfort_violation = 33.88185		typical dev = 0.05894214905673772
+mean_power_consumption = 5886.49912		typical dev = 24.57174961658264
+mean_reward = -0.46065					typical dev = 0.0013829917325573417
+
+
+DQN_Disc_Aug_Hot_OccupPropRew
+
+mean_comfort_violation = 12.98687		typical dev = 0.11179931932039928
+mean_power_consumption = 4543.52442		typical dev = 20.443837290699054
+mean_reward = -0.4102					typical dev = 0.001878274738823416
+
+
+DQN_Disc_Aug_Hot_OccupRew
+
+mean_comfort_violation = 12.63128		typical dev = 0.10909145502711975
+mean_power_consumption = 4932.50707		typical dev = 20.54379459405819
+mean_reward = -0.41954					typical dev = 0.002126015568598879
+
+
+DQN_Disc_Aug_Mixed_LinRew
+
+mean_comfort_violation = 28.80879		typical dev = 0.33454306036088827
+mean_power_consumption = 5201.84306		typical dev = 34.54389798559908
+mean_reward = -0.30454					typical dev = 0.0019333318545804185
+
+
+DQN_Disc_Aug_Mixed_OccupPropRew
+
+mean_comfort_violation = 16.5645		typical dev = 0.08332942381521848
+mean_power_consumption = 3680.35345		typical dev = 25.125645315015024
+mean_reward = -0.35446					typical dev = 0.0025848236417357275
+
+
+DQN_Disc_Aug_Mixed_OccupRew
+
+mean_comfort_violation = 14.95833		typical dev = 0.1747880552093437
+mean_power_consumption = 4108.25269		typical dev = 30.99062330788196
+mean_reward = -0.37388					typical dev = 0.0028903504153388123
+
+
+PPO_Cont_Cool_LinRew
+
+mean_comfort_violation = 32.59075		typical dev = 0.09402055457037692
+mean_power_consumption = 3366.27814		typical dev = 15.635149703148036
+mean_reward = -0.24957					typical dev = 0.0007406326191231129
+
+
+PPO_Cont_Cool_OccupPropRew
+
+mean_comfort_violation = 15.15753		typical dev = 0.11246465033561943
+mean_power_consumption = 2020.0875		typical dev = 9.964260156711916
+mean_reward = -0.20343					typical dev = 0.0008467988554544144
+
+
+PPO_Cont_Cool_OccupRew
+
+mean_comfort_violation = 14.52283		typical dev = 0.08537637576930003
+mean_power_consumption = 2077.69198		typical dev = 11.818116380185742
+mean_reward = -0.22233					typical dev = 0.0009568149028161571
+
+
+PPO_Cont_Hot_LinRew
+
+mean_comfort_violation = 33.75228		typical dev = 0.17120814128800535
+mean_power_consumption = 6104.07477		typical dev = 9.198402151487699
+mean_reward = -0.4674					typical dev = 0.0009956526469534779
+
+
+PPO_Cont_Hot_OccupPropRew
+
+mean_comfort_violation = 12.87842		typical dev = 0.14556025554529678
+mean_power_consumption = 4551.15832		typical dev = 6.856161378266189
+mean_reward = -0.39746					typical dev = 0.0007710875252303405
+
+
+PPO_Cont_Hot_OccupRew
+
+mean_comfort_violation = 13.26598		typical dev = 0.11687122957267297
+mean_power_consumption = 4557.44486		typical dev = 6.467732791590792
+mean_reward = -0.40504					typical dev = 0.0006079680688238061
+
+
+PPO_Cont_Mixed_LinRew
+
+mean_comfort_violation = 32.96689		typical dev = 0.08786247216846528
+mean_power_consumption = 5626.12688		typical dev = 32.9083485676967
+mean_reward = -0.35956					typical dev = 0.0016148814975083141
+
+
+PPO_Cont_Mixed_OccupPropRew
+
+mean_comfort_violation = 15.02626		typical dev = 0.07148160823951302
+mean_power_consumption = 3696.1555		typical dev = 20.93552955645806
+mean_reward = -0.34145					typical dev = 0.001784083925250034
+
+
+PPO_Cont_Mixed_OccupRew
+
+mean_comfort_violation = 13.7597		typical dev = 0.0723468754717556
+mean_power_consumption = 3930.45047		typical dev = 22.459977254136135
+mean_reward = -0.3484					typical dev = 0.0019015397390025487
+
+
+SAC_Cont_Cool_LinRew
+
+mean_comfort_violation = 27.26541		typical dev = 0.11692418121211595
+mean_power_consumption = 3167.47		typical dev = 15.868905081506215
+mean_reward = -0.22627					typical dev = 0.0012433524554901151
+
+
+SAC_Cont_Cool_OccupPropRew
+
+mean_comfort_violation = 10.69064		typical dev = 0.12747620342596927
+mean_power_consumption = 2060.47503		typical dev = 8.81979203176413
+mean_reward = -0.19378					typical dev = 0.0010387585189528372
+
+
+SAC_Cont_Cool_OccupRew
+
+mean_comfort_violation = 8.16952		typical dev = 0.10559514993319703
+mean_power_consumption = 2155.09445		typical dev = 12.375036098704433
+mean_reward = -0.19998					typical dev = 0.0009886753326483146
+
+
+SAC_Cont_Hot_LinRew
+
+mean_comfort_violation = 32.23459		typical dev = 0.07124421815812654
+mean_power_consumption = 5863.60832		typical dev = 10.547715474168566
+mean_reward = -0.45141					typical dev = 0.0008084165548159481
+
+
+SAC_Cont_Hot_OccupPropRew
+
+mean_comfort_violation = 10.0		typical dev = 0.036099060047584376
+mean_power_consumption = 4672.60884		typical dev = 10.48904919836398
+mean_reward = -0.39395					typical dev = 0.0006461691111641671
+
+
+SAC_Cont_Hot_OccupRew
+
+mean_comfort_violation = 9.56792		typical dev = 0.0705226344038698
+mean_power_consumption = 4790.7759		typical dev = 9.22633081808236
+mean_reward = -0.38216					typical dev = 0.0004501161364858631
+
+
+SAC_Cont_Mixed_LinRew
+
+mean_comfort_violation = 33.59475		typical dev = 0.06968614762628997
+mean_power_consumption = 5231.46679		typical dev = 29.799944428279552
+mean_reward = -0.34603					typical dev = 0.0014431680465710637
+
+
+SAC_Cont_Mixed_OccupPropRew
+
+mean_comfort_violation = 14.13927		typical dev = 0.053317957297519175
+mean_power_consumption = 3660.01984		typical dev = 20.35175395561324
+mean_reward = -0.34158					typical dev = 0.00188175549067751
+
+
+SAC_Cont_Mixed_OccupRew
+
+mean_comfort_violation = 12.07991		typical dev = 0.09250097981681676
+mean_power_consumption = 3824.76467		typical dev = 19.99911613728597
+mean_reward = -0.34117					typical dev = 0.0016867485259414996
+
+
+TD3_Cont_Cool_LinRew
+
+mean_comfort_violation = 33.9589		typical dev = 0.04188113316859532
+mean_power_consumption = 3441.44409		typical dev = 16.40095908171139
+mean_reward = -0.25759					typical dev = 0.0007780353998542085
+
+
+TD3_Cont_Cool_OccupPropRew
+
+mean_comfort_violation = 8.40183		typical dev = 0.11101561491176698
+mean_power_consumption = 1988.25613		typical dev = 9.027096159506616
+mean_reward = -0.18585					typical dev = 0.0010318963475857664
+
+
+TD3_Cont_Cool_OccupRew
+
+mean_comfort_violation = 6.15354		typical dev = 0.06852643787784268
+mean_power_consumption = 2092.2338		typical dev = 10.635558593759738
+mean_reward = -0.18662					typical dev = 0.0010141022188692532
+
+
+TD3_Cont_Hot_LinRew
+
+mean_comfort_violation = 41.4024		typical dev = 0.12135675034216496
+mean_power_consumption = 6006.05548		typical dev = 10.095159176288035
+mean_reward = -0.59349					typical dev = 0.0029182459467071353
+
+
+TD3_Cont_Hot_OccupPropRew
+
+mean_comfort_violation = 12.77911		typical dev = 0.0033281688897518905
+mean_power_consumption = 6264.31175		typical dev = 11.138249047106106
+mean_reward = -0.55072					typical dev = 0.0007760957453743006
+
+
+TD3_Cont_Hot_OccupRew
+
+mean_comfort_violation = 18.16324		typical dev = 0.09497209219835423
+mean_power_consumption = 6006.05548		typical dev = 10.095159176288035
+mean_reward = -0.62889					typical dev = 0.0027395699362045686
+
+
+TD3_Cont_Mixed_LinRew
+
+mean_comfort_violation = 29.60616		typical dev = 0.07913025947773118
+mean_power_consumption = 5442.07043		typical dev = 30.49856474015666
+mean_reward = -0.34176					typical dev = 0.0014374471663751306
+
+
+TD3_Cont_Mixed_OccupPropRew
+
+mean_comfort_violation = 12.79623		typical dev = 0.08662646242340434
+mean_power_consumption = 3626.43066		typical dev = 19.221626434900436
+mean_reward = -0.32962					typical dev = 0.0017354676718257596
+
+
+TD3_Cont_Mixed_OccupRew
+
+mean_comfort_violation = 12.76541		typical dev = 0.0
+mean_power_consumption = 5677.29788		typical dev = 34.11573891457802
+mean_reward = -0.51264					typical dev = 0.0030835763888187265
+
+
+
+A2C_Disc_Aug_Cool_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 10.125		typical dev = 0.1500978774791722
+mean_power_consumption = 3512.43627		typical dev = 17.123614237798158
+mean_reward = -0.32634					typical dev = 0.0013495596336969258
+
+
+A2C_Disc_Aug_Hot_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 17.98916		typical dev = 0.10331838563226776
+mean_power_consumption = 5821.39847		typical dev = 9.503173860674442
+mean_reward = -0.5971					typical dev = 0.0019002209887423157
+
+
+A2C_Disc_Aug_Mixed_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 15.94806		typical dev = 0.18500019864101824
+mean_power_consumption = 5345.75546		typical dev = 31.83178818948843
+mean_reward = -0.50221					typical dev = 0.0024404164215750517
+
+
+DQN_Disc_Aug_Cool_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 7.36416		typical dev = 0.08538019155851628
+mean_power_consumption = 3262.32293		typical dev = 17.507674159392774
+mean_reward = -0.29878					typical dev = 0.001665742255436306
+
+
+DQN_Disc_Aug_Hot_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 9.34589		typical dev = 0.0978411065626307
+mean_power_consumption = 5886.49912		typical dev = 24.57174961658264
+mean_reward = -0.48946					typical dev = 0.0023010604767969072
+
+
+DQN_Disc_Aug_Mixed_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 10.13584		typical dev = 0.12434017172776356
+mean_power_consumption = 5201.84306		typical dev = 34.54389798559908
+mean_reward = -0.46494					typical dev = 0.0029941104205761316
+
+
+PPO_Cont_Cool_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 11.62557		typical dev = 0.06728384487804281
+mean_power_consumption = 3366.27814		typical dev = 15.635149703148036
+mean_reward = -0.32411					typical dev = 0.0012715985430829244
+
+
+PPO_Cont_Hot_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 11.69292		typical dev = 0.12860084312330766
+mean_power_consumption = 6104.07477		typical dev = 9.198402151487699
+mean_reward = -0.52075					typical dev = 0.0007398902544202781
+
+
+PPO_Cont_Mixed_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 12.21347		typical dev = 0.0794097273490346
+mean_power_consumption = 5626.12688		typical dev = 32.9083485676967
+mean_reward = -0.50455					typical dev = 0.003025447266977598
+
+
+SAC_Cont_Cool_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 6.31621		typical dev = 0.1311345249385789
+mean_power_consumption = 3167.47		typical dev = 15.868905081506215
+mean_reward = -0.29309					typical dev = 0.0018207255936586624
+
+
+SAC_Cont_Hot_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 8.59189		typical dev = 0.054316791111280543
+mean_power_consumption = 5863.60832		typical dev = 10.547715474168566
+mean_reward = -0.488					typical dev = 0.0007060841072850407
+
+
+SAC_Cont_Mixed_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 10.50171		typical dev = 0.05291314467957415
+mean_power_consumption = 5231.46679		typical dev = 29.799944428279552
+mean_reward = -0.46967					typical dev = 0.0028032510698540905
+
+
+TD3_Cont_Cool_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 12.77169		typical dev = 0.0021356491933643778
+mean_power_consumption = 3441.44409		typical dev = 16.40095908171139
+mean_reward = -0.33164					typical dev = 0.0012843749956858534
+
+
+TD3_Cont_Hot_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 18.16324		typical dev = 0.09497209219835423
+mean_power_consumption = 6006.05548		typical dev = 10.095159176288035
+mean_reward = -0.62889					typical dev = 0.0027395699362045686
+
+
+TD3_Cont_Mixed_LinRew (evaluado con OccupRew)
+
+mean_comfort_violation = 8.85388		typical dev = 0.07564885122488797
+mean_power_consumption = 5442.07043		typical dev = 30.49856474015666
+mean_reward = -0.48409					typical dev = 0.0027422573587645286
